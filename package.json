@@ -1,0 +1,17 @@
+{
+  "name": "adapt-ready-assignment",
+  "version": "1.0.0",
+  "description": "Adapt Ready Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Umang Darji",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "express": "^4.21.2",
+    "joi": "^17.13.3",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
